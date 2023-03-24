@@ -1,0 +1,142 @@
+*{
+	font-family: 'Lobster Two', cursive;
+}
+
+h2{
+	font-family: 'Pinyon Script', cursive;
+}
+
+h1{
+	font-family: 'Pinyon Script', cursive;
+}
+
+body {
+	background: black;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+main{
+	width: 950px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+img{
+	margin: auto;
+	width: 950px;
+}	
+
+#manual{
+	background: white;
+	width: 850px;
+	font-family: cursive; 
+	margin: auto;
+}
+
+.table th{
+		background: black;
+		color:white;
+	}
+
+.table td{
+		border:1px solid black;
+	}
+
+.table tr{
+		height: 40px;
+		text-align: center;
+	}
+
+#headerSection{
+	height: 70px;
+	background-color: red;
+}
+
+#headerSection > h1{
+	margin-top: auto;
+	margin-bottom: auto;
+	padding-top: 19px;
+}
+
+#tableSection{
+	background-color: white;
+}
+
+#tableSection h2{
+	margin-top: 0;
+	padding-top: 60px;
+}
+
+
+#amount{
+	color: red;
+}
+
+#menu{
+	text-align: left;
+	padding-left: 5px;
+}
+
+h1 {
+	text-align: center;
+	color: white;
+	font-size: 30px;
+}
+
+
+h2 {
+	text-align: center;
+	color: black ;
+	font-size: 30px;
+}
+
+p {
+	text-align: center;
+	background-color: red;
+	color: white;
+	font-style: cursive, italic;
+}
+table{
+	width: 850px;
+	margin-right: auto;
+	margin-left: auto;
+	border-collapse: collapse;
+	border: 2px solid black;
+}
+
+table tr{
+	border: 2px solid black;
+}
+
+.table{
+	border: 2px solid black;
+}
+
+#sn{
+	width: 80px;
+}
+
+.table tr:hover{
+	background-color: red;
+	color: white;
+}
+
+.table tr td{
+	font-family: 'Montserrat', sans-serif;
+}
+
+.table tr th{
+	font-family: 'Montserrat', sans-serif;
+}
+
+.footer {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.footer span{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
+}
